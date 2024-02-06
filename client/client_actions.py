@@ -4,5 +4,5 @@ def viewOrders():
 def viewCatalog():
     print("archive with flowers to buy here")
 
-def acessProfile():
+def accessProfile():
     print("access their profile here")
