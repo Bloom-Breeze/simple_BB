@@ -13,6 +13,6 @@ def client_menu():
             client_actions.viewCatalog()
 
         if option == 3:
-            client_actions.acessProfile()    
+            client_actions.accessProfile()    
 
 client_menu()
