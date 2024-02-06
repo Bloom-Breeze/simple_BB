@@ -5,7 +5,7 @@ def client_menu():
     #if option == 0:
         #vai pro menu de login
     while(option != 0):
-        option = int(input("1 - View Orders\n2 - View Flower Catalog\n3 - Acess Profile\n0 - Logout\n\nChoose the option: "))   
+        option = int(input("1 - View Orders\n2 - View Flower Catalog\n3 - Access Profile\n0 - Logout\n\nChoose the option: "))   
         if option == 1:
             client_actions.viewOrders()
         
